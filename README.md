@@ -1,5 +1,6 @@
 # Implementing-Quick-Shell-and-Merge-Sort-on-Dynamic-Array-
 Add a large list of numbers from a text file that can be any positive value into a dynamic array, and Sort the list of numbers in ascending order or descending order with three different sorting methods(merge,quick,shell) as specified by the command file.
+
 # Assumptions:
 - The input file is a text file; no need to handle binary files.
 - Characters are case sensitive.
